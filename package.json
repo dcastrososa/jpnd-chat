@@ -1,0 +1,15 @@
+{
+  "name": "n-challenge-apps",
+  "version": "0.1.2",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "11.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
